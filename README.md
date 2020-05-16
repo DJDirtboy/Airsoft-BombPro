@@ -1,6 +1,12 @@
-# Airsoft-BombPro 1.5
+
+
+
+# Airsoft-BombPro 2.0
 By Ignacio Lillo yinbot -at- gmail 
 http://yin.mainstreamds.com
+
+Modified By DJDirtboy  djdirtboy.yt -at -gmail com
+New progress bar and pinout
 
 Is an arduino sketch for prop simulation used in Airsoft/Paintball/Wargames
 
